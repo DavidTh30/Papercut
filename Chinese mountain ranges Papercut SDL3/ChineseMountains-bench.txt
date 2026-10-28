@@ -1,0 +1,8 @@
+Chinese Mountains Papercut SDL3 frame pacing  2026-10-16 04:37:41
+SDL 3.4.18, backend direct3d11, vsync on, display 60 Hz
+frame 1024 x 576, 6 threads (6 physical / 12 logical cores), 6 bands
+presents 481 in 8.0 s  ->  60.00 fps
+interval ms: mean 16.67  median 16.69  p99 20.36  max 20.88
+missed vblank (interval > 1.5 x 16.67 ms): 0 (0.00 %)
+render wall 9.63 ms, cpu 39.81 ms (smoothed); upload 1.83 ms, present 14.82 ms
+info window visible: yes
